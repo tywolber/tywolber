@@ -8,7 +8,7 @@
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Carbon Taxes and CO2 Emissions: Replication Study](/pdf/sample_presentation.pdf)
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
