@@ -2,9 +2,7 @@ title: Ty Wolber # your name (or website title) here
 logo: <img class="rounded-circle shadow-4-strong" alt="avatar2" src="/images/IMG_2346.JPG?raw=true" /> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science & Economics Graduate from UC Berkeley 
-  <br><br>
   tywolber@gmail.com 
-  <br><br>
   <a href="https://www.linkedin.com/in/ty-wolber-871071221/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
