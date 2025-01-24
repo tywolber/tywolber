@@ -1,5 +1,5 @@
 title: Ty Wolber # your name (or website title) here
-logo: "/images/IMG_2346.JPG?raw=true" # your photo (or logo) here
+logo: <img class="rounded-circle shadow-4-strong" alt="avatar2" src="/images/IMG_2346.JPG?raw=true" /> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
