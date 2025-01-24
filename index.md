@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[AMachine Learning Framework for Early Asthma Diagnosis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A Machine Learning Framework for Early Asthma Diagnosis](/sample_page)
+<img src="Screenshot 2025-01-24 140942.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
