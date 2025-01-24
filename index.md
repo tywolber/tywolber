@@ -4,11 +4,11 @@
 
 ### Academic Research 
 
-[Machine Learning Framework for Early Asthma Diagnosis](/pdf/sample_presentation.pdf)
+[Machine Learning Framework for Early Asthma Diagnosis](/pdf/AsthmaPaper.pdf)
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
-[Carbon Taxes and CO2 Emissions: Replication Study](/pdf/sample_presentation.pdf)
+[Carbon Taxes and CO2 Emissions: Replication Study](/pdf/Project Writeup (Final).pdf)
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
