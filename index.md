@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Machine Learning Framework for Early Asthma Diagnosis](/sample_page)
-<img src="Screenshot 2025-01-24 140942.png"/>
+[Machine Learning Framework for Early Asthma Diagnosis](/pdf/sample_presentation.pdf)
+<img src="Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
