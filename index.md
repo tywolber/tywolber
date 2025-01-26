@@ -4,7 +4,7 @@
 
 ### Academic Research 
 
-[Machine Learning Framework for Early Asthma Diagnosis]
+[Machine Learning Framework for Early Asthma Diagnosis][pdf](/pdf/AsthmaPaper.pdf)
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true"/>
 
 ---
