@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Academic Research 
+## Academic Research 
 
 [Machine Learning Framework for Early Asthma Diagnosis](/pdf/AsthmaPaper.pdf)
 <img src="images/Screenshot 2025-01-24 141810.png?raw=true" width="400" height="400"/>
@@ -12,14 +8,10 @@
 <img src="images/Screenshot 2025-01-24 140942.png?raw=true" width="400" height="400"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Professional Experience
 
-- [Project 1 Title](http://example.com/)
+- [Financial Data Analysis](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
