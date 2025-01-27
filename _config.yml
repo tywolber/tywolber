@@ -2,7 +2,8 @@ title: Ty Wolber # your name (or website title) here
 logo: "images/Ty Professional Circle.png?raw=true width="200" height="200""# your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <a href="https://www.linkedin.com/in/ty-wolber-871071221/">LinkedIn</a> <br>
- [Resume](pdf/Technical Resume.pdf)
+ [Resume]({{ site.baseurl }}/pdf/Technical%20Resume.pdf) # Use a base URL for access
+pdf_resume: "pdf/Technical%20Resume.pdf"
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
