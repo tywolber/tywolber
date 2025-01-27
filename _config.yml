@@ -1,6 +1,6 @@
 title: Ty Wolber # your name (or website title) here
 logo: "images/Ty Professional Circle.png?raw=true width="200" height="200""
-pdf_resume: "pdf/Technical%20Resume.pdf"
+pdf_resume: "pdf/Technical Resume.pdf"
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <a href="https://www.linkedin.com/in/ty-wolber-871071221/">LinkedIn</a> <br>
  <a href="{{ site.pdf_resume }}" target="_blank">Resume</a>
