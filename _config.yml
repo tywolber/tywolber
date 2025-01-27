@@ -1,24 +1,10 @@
 title: Ty Wolber # your name (or website title) here
-#logo: "/images/IMG_2346.JPG?raw=true"# your photo (or logo) here
+logo: "/images/IMG_2346.JPG?raw=true"# your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <a href="https://www.linkedin.com/in/ty-wolber-871071221/">View My LinkedIn Profile</a> 
+ <a href="https://www.linkedin.com/in/ty-wolber-871071221/">LinkedIn</a> 
+ [Resume](/pdf/Technical Resume.pdf)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-custom_html: >
-  <style>
-    .circular-logo {
-      border-radius: 50%; /* Makes the image circular */
-      width: 150px; /* Adjust width */
-      height: 150px; /* Adjust height */
-      object-fit: cover; /* Ensures the image doesn't stretch */
-    }
-  </style>
-  <div style="text-align: center;"> <!-- Optional centering -->
-    <img class="circular-logo" src="/images/IMG_2346.JPG?raw=true" alt="Ty Wolber Logo">
-  </div>
-
-
